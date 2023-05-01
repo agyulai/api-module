@@ -2,7 +2,7 @@
 public class ApiIntegration {
 
     public void changeStateOfApplication() {
-        System.out.println("Application state changed");
+        System.out.println("Module integration test");
     }
 
 }
