@@ -6,7 +6,7 @@
 
     <groupId>agyulai</groupId>
     <artifactId>api-module</artifactId>
-    <version>0.4.0</version>
+    <version>0.5.0</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
